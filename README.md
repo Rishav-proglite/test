@@ -1,1 +1,1 @@
-git commit -m "DEM-1 tes"
+git commit -m "DEM-1 tem"
